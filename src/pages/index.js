@@ -17,7 +17,7 @@ export default (() => {
 					About me
 				</Text>
 				<Text as="h2" font="--headline2" margin="0 0 12px 0">
-					Hey I’m David
+					jgjhgjhgjhg
 				</Text>
 				<Text font="--base">
 					hjgjgjh
